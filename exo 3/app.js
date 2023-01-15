@@ -1,2 +1,4 @@
-let nom =prompt (" Bonjour ! Entrez votre nom");
-document.write(nom);
+let hello = "Bonjour";
+let nom =prompt ("Entrez votre nom");
+
+alert( hello + " " + nom );
